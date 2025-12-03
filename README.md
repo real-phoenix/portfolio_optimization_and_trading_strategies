@@ -150,18 +150,3 @@ print(f"Max Sharpe Portfolio: Return={ret:.2%}, Vol={vol:.2%}, Sharpe={sharpe:.2
 3.  Commit changes (`git commit -m "Add new strategy"`)\
 4.  Push (`git push origin feature/add-new-strategy`)\
 5.  Open Pull Request
-
-## License
-
-MIT License - see LICENSE file.
-
-## Disclaimer
-
-⚠️ For educational purposes only. Not financial advice.\
-Past performance does not guarantee future results. Always conduct your
-own research.
-
-------------------------------------------------------------------------
-
-Built with ❤️ by Shreya Singh\
-IIT Roorkee '24 \| GitHub \| LinkedIn
